@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/resume/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/taga/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tagb/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-07T22:44:02+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/hello-world/</loc>
     <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
-    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
