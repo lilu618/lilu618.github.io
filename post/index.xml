@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 李陆的博客</title>
+    <link>https://github.com/lilu618/lilu618.github.io.git/post/</link>
+    <description>Recent content in Posts on 李陆的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 07 Dec 2020 22:03:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/lilu618/lilu618.github.io.git/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>我的第一篇博客</title>
+      <link>https://github.com/lilu618/lilu618.github.io.git/post/my-first-blog/</link>
+      <pubDate>Mon, 07 Dec 2020 22:03:51 +0800</pubDate>
+      
+      <guid>https://github.com/lilu618/lilu618.github.io.git/post/my-first-blog/</guid>
+      <description>今天是特殊的一天，因为今天我写下了一篇不一般的博客&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
