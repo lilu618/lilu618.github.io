@@ -3,26 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/lilu618/lilu618.github.io.git/post/</loc>
-    <lastmod>2020-12-07T22:03:51+08:00</lastmod>
+    <loc>/post/hello-world/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lilu618/lilu618.github.io.git/post/my-first-blog/</loc>
-    <lastmod>2020-12-07T22:03:51+08:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lilu618/lilu618.github.io.git/</loc>
-    <lastmod>2020-12-07T22:03:51+08:00</lastmod>
+    <loc>/tags/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lilu618/lilu618.github.io.git/categories/</loc>
+    <loc>/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/lilu618/lilu618.github.io.git/tags/</loc>
+    <loc>/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-12-07T22:32:48+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
